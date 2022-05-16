@@ -5,11 +5,12 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import Register from './components/Register';
 import Profile from './components/Profile';
 import Student from './components/Student';
+import Count from './components/Count';
 
 function App() {
   return (
     <div>
-      <Student />
+      <Count />
 
     </div>
   
